@@ -1,2 +1,2 @@
 # data_visualization
-visualization of different dataset using tools
+Dashboard display of various sales data using the "deep insight" i.e. a BI tool.
